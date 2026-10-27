@@ -7,4 +7,9 @@ import kotlin.io.path.writeText
 
 fun main() {
     // Add your code here
+    val file = Path("test.txt")
+    file.writeText("Im a Im a")
+    file.appendText(" one percent low battery girl")
+    val message = file.readText()
+    println(message)
 }

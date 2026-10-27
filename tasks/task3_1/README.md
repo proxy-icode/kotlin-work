@@ -1,4 +1,4 @@
-# Task 3.1
+~~# Task 3.1
 
 1. Write a program in `src/Main.kt` that accepts command line arguments
    and prints the values of the first two of those arguments.
@@ -22,4 +22,4 @@
        ./kotlin run arg1 arg2
        echo $?
        ./kotlin run arg1 arg2 arg3
-       echo $?
+       echo $?~~
