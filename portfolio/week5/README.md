@@ -95,7 +95,7 @@ Use the appropriate Gradescope submission link in Minerva.
 On Gradescope, use the option to upload files. **Do NOT use the option to
 submit from your GitHub repository!**
 
-Submit only the file `StudentAccount.kt`.
+Submit only the file `comp2850.banking.StudentAccount`.
 
 
 [guide]: https://comp2850.github.io/kotlin-guide/

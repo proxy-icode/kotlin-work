@@ -2,7 +2,6 @@
 // BankAccount class
 
 package comp2850.banking
-
 abstract class BankAccount(val holder: String) {
     init {
         require(holder.isNotBlank()) { "Account holder must not be blank" }

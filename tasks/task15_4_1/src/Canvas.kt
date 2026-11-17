@@ -6,7 +6,8 @@ import java.awt.Graphics2D
 import java.awt.RenderingHints
 import javax.swing.JComponent
 
-class Canvas(val picture: Picture) : JComponent() {
+class
+Canvas(val picture: Picture) : JComponent() {
     init {
         preferredSize = Dimension(400, 400)
     }
